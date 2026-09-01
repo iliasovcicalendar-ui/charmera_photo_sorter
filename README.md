@@ -23,10 +23,8 @@ A tiny Windows app for reviewing a folder of photos one at a time.
 ### Option 2: Clone with Git
 
 ```powershell
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/iliasovcicalendar-ui/charmera_photo_sorter.git
 ```
-
-Replace `YOUR_REPOSITORY_URL` with the URL shown by GitHub.
 
 ## Set up the folders
 
