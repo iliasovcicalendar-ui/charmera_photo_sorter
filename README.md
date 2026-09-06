@@ -93,16 +93,16 @@ Some PCs do not record a usable camera-arrival event. A reliable alternative is 
     wscript.exe
     ```
 
-8. In **Add arguments**, enter the path to the invisible launcher, replacing the path if the repository is elsewhere:
+8. In File Explorer, open the Photo Sorter folder, select the address bar, and copy the folder's full path. In **Add arguments**, enter that path followed by the launcher filename, keeping the quotation marks:
 
     ```text
-    "C:\Users\tomas\Desktop\projects\photo-sorter\Run Import Hidden.vbs"
+    "PASTE_THE_PHOTO_SORTER_FOLDER_PATH_HERE\Run Import Hidden.vbs"
     ```
 
-9. In **Start in**, enter the folder containing the script without quotation marks:
+9. In **Start in**, paste the Photo Sorter folder path itself without quotation marks:
 
     ```text
-    C:\Users\tomas\Desktop\projects\photo-sorter
+    PASTE_THE_PHOTO_SORTER_FOLDER_PATH_HERE
     ```
 
 10. On **Conditions**, clear **Start the task only if the computer is on AC power** if you also want imports while using a laptop battery.
