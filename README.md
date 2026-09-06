@@ -24,10 +24,8 @@ A tiny Windows app for importing photos from a Charmera camera and reviewing the
 ### Option 2: Clone with Git
 
 ```powershell
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/iliasovcicalendar-ui/charmera_photo_sorter.git
 ```
-
-Replace `YOUR_REPOSITORY_URL` with the URL shown by GitHub.
 
 ## Set up the folders
 
