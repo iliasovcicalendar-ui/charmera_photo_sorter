@@ -1,4 +1,6 @@
 {
   "sourceFolder": "%USERPROFILE%\\Pictures\\charmera_dump",
-  "memoriesFolder": "%USERPROFILE%\\Pictures\\memories"
+  "memoriesFolder": "%USERPROFILE%\\Pictures\\memories",
+  "cameraVolumeLabel": "Charmera",
+  "cameraPhotoFolder": "DCIM"
 }
